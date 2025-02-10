@@ -6,7 +6,7 @@ This repository contains the code and analysis for a project aimed at uncovering
 
 ## Dataset
 
-- **Source**: The dataset used in this analysis is available on Kaggle, thanks to Sourav Banerjee. You can access it [here](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/).
+- **Source**: The dataset used in this analysis is available on Kaggle.
 - **Columns**: The dataset includes various columns such as Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount (USD), and more.
 
 ## Insights
@@ -36,7 +36,7 @@ To explore this analysis and replicate the results, follow these steps:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/your-username/customer-shopping-trends-analysis.git
+   git clone https://github.com/Mandadri/customer-shopping-trends-analysis.git
    ```
 
 2. Install the required dependencies:
